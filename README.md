@@ -70,7 +70,7 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-For any questions or suggestions, feel free to open an issue or contact me at [your-email@example.com](mailto:pvbcod@gmail.com).
+For any questions or suggestions, feel free to open an issue or contact me at [pvbcod@gmail.com](mailto:pvbcod@gmail.com).
 
 ---
 
