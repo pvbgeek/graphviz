@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
 
 ## 🌐 Live Demo
 
-Check out the live demo [here](https://graphviz.com).
+Check out the live demo [here](https://pvbgeek.github.io/graphviz/).
 
 ## 📚 Usage
 
