@@ -16,7 +16,7 @@ GraphViz is an interactive graph visualization tool that allows users to create,
 
 ## 📸 Screenshots
 
-![GraphViz Screenshot](https://your-image-url-here.com/screenshot.png)
+![GraphViz Screenshot](https://github.com/pvbgeek/graphviz/blob/main/Screenshot.png)
 
 ## 🛠️ Technologies Used
 
@@ -46,7 +46,6 @@ Check out the live demo [here](https://graphviz.com).
 ## 📚 Usage
 
 1. **Add Nodes and Edges:**
-    - Enter the number of nodes in the "Node Count" field.
     - Enter the edges in the "Graph Data" textarea in the format `source target`.
     - Click "Update Graph" to visualize the graph.
 
